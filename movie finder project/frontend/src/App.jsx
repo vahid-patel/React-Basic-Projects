@@ -1,5 +1,5 @@
 import MovieCard from './components/MovieCard'
-import './App.css'
+import './css/App.css'
 import { Route, Routes } from 'react-router-dom'
 import Home from './pages/Home'
 import NavBar from './components/NavBar'

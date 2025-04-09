@@ -1,9 +1,9 @@
 import { Link } from "react-router-dom"
-
+import "../css/Navbar.css"
 const NavBar = () =>{
 
     return(
-        <nav className="nav-bar">
+        <nav className="navbar">
             <div className="navbar-brand">
                 <Link to={"/"}>Movie Finder</Link>
             </div>
